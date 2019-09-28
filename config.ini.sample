@@ -1,0 +1,4 @@
+[DEFAULT]
+repair_id = YourRepairId
+serial_number = YourSerialNumber
+line_notify_token = YourLineNotifyToken
